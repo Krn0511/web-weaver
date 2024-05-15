@@ -1,0 +1,58 @@
+/* styles.css */
+
+/* Body styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9; /* Set a light background color */
+}
+
+/* Container styling */
+#content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff; /* Set a white background color */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+    border-radius: 10px; /* Add some border radius */
+}
+
+/* Paragraph styling */
+p {
+    line-height: 1.6;
+    color: #333; /* Set paragraph color */
+}
+
+/* Heading styling */
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333; /* Set heading color */
+}
+
+h2 {
+    margin-top: 30px;
+    color: #555; /* Set heading color */
+}
+
+/* Link styling */
+a {
+    color: #007bff; /* Set link color */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Add some padding and border to the paragraphs */
+p {
+    padding: 10px 0;
+    border-bottom: 1px solid #ccc;
+}
+
+/* Add some margin to the top and bottom of the content */
+#content {
+    margin: 20px;
+}
